@@ -36,6 +36,7 @@ const App = () => {
           <p>Shop Now</p>
         </div>
       </div>
+      <div>TEST</div>
     </div>
   );
 };
